@@ -85,7 +85,7 @@
     "fix_meta_table": true,
     "clean_cache": false,
     "narrow": true,
-    "use_hinted": true,
+    "use_hinted": false,
     "use_static_base_font": true,
     "scale_factor": 1.0
   }
