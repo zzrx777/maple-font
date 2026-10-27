@@ -1,6 +1,6 @@
 {
   "family_name": "Maple Mono",
-  "use_hinted": false,
+  "use_hinted": true,
   "pool_size": 4,
   "enable_ligature": false,
   "ttfautohint_param": {},
@@ -85,7 +85,7 @@
     "fix_meta_table": true,
     "clean_cache": false,
     "narrow": true,
-    "use_hinted": false,
+    "use_hinted": true,
     "use_static_base_font": true,
     "scale_factor": 1.0
   }
